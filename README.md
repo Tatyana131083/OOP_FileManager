@@ -28,6 +28,7 @@
 - в  файле directory.xml последний выбор пользователя родительского каталога.
 
 Общий вид
+
 ![S1](https://user-images.githubusercontent.com/43469542/166086558-3c91f354-6b48-431c-a997-04deada9eec8.PNG)
 
 Перемещение
