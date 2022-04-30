@@ -26,3 +26,16 @@
 Сохранение в файлы по дням.
 - движение по истории команд (page up, page down). Хранятся последние 10 команд
 - в  файле directory.xml последний выбор пользователя родительского каталога.
+
+Общий вид
+![S1](https://user-images.githubusercontent.com/43469542/166086558-3c91f354-6b48-431c-a997-04deada9eec8.PNG)
+
+Перемещение
+![SFM1](https://user-images.githubusercontent.com/43469542/166086611-1896688e-3342-426c-a948-5157b6b3cd7e.PNG)
+
+Поиск файлов по шаблону
+![SFM3](https://user-images.githubusercontent.com/43469542/166086625-9bb18f86-0bf7-44e1-93cf-00c4c0f9e093.PNG)
+
+Статистика файла
+![SFM4](https://user-images.githubusercontent.com/43469542/166086640-f354c219-8104-4fd8-b5a7-c7982e4217b9.PNG)
+
